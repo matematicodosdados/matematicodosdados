@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello World! 🌍
 
-<!--
-**matematicodosdados/matematicodosdados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm undergratuated mathematics student at a Federal University of Minas Gerais (UFMG) at a Belo Horizonte, Brazil.
 
-Here are some ideas to get you started:
+Since 2024 i'm self-learning Data Science to do projects, own my first job as a Data Scientist or Data Analyst and do Competitions at Kaggle, btw. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm constantly learning maths, statistics and programming to search the best solutions for my work. 
+
+### 👨‍🎓 Education
+#### At Degree
+- Undergratuated at Mathematics 🎓 (2022-2025)
+- Research mentorship (2023-) 
+  > I'm studying Number Theory and I'm interested in learning the mathematics behind modern encryption algorithms  
+#### I'm studying now
+- Python, R, SQL
+- C#, Java and ReactJS
+- Machine Learning
+- Power BI
+#### I'm want to study in the future
+  - Criptography
+  - BlockChain
+  - Applied Data Science in Finances (Quantum finance)
+#### Skills 🎯
+  - Applied Mathematics
+  - Self-Learning
+  - Platform: Github
+  - Languages: Python (Pandas, Numpy, Matplotlib), R, SQL
+  - Machine Learning for Data Science
+  - Content Creation
+  - Video editing
+  - 3D animations

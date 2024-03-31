@@ -1,8 +1,8 @@
 # Hello World! 🌍
 
-I'm undergratuated mathematics student at a Federal University of Minas Gerais (UFMG) at a Belo Horizonte, Brazil.
+I'm undergratuated mathematics student at a Federal University of Minas Gerais (UFMG) at Belo Horizonte, Brazil.
 
-Since 2024 i'm self-learning Data Science to do projects, own my first job as a Data Scientist or Data Analyst and do Competitions at Kaggle, btw. 
+Since 2024 i'm self-learning Data Science to do projects, own my first job as a Data Scientist or Data Analyst and participate in Competitions at Kaggle, btw. 
 
 I'm constantly learning maths, statistics and programming to search the best solutions for my work. 
 

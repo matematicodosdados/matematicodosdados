@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hello World! 👋, I'm Alex</h1>
 <h4 align="left">I'm undergratuated mathematics student at a Federal University of Minas Gerais (UFMG) at Belo Horizonte, Brazil. Since 2024 i'm self-learning Data Science to do projects, own my first job as a Data Scientist or Data Analyst and participate in Competitions at Kaggle, btw. I'm constantly learning maths, statistics and programming to search the best solutions for my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matematicodosdados&label=Profile%20views&color=0e75b6&style=flat" alt="matematicodosdados" /> </p>

@@ -27,4 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matematicodosdados&show_icons=true&locale=en" alt="matematicodosdados" /></p>
 
+<img src="https://raw.githubusercontent.com/matematicodosdados/matematicodosdados/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matematicodosdados&" alt="matematicodosdados" /></p>

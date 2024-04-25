@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matematicodosdados&label=Profile%20views&color=0e75b6&style=flat" alt="matematicodosdados" /> </p>
 
-- 🌱 I’m currently learning **R, SQL, Machine Learning**
+- 👨‍🎓 B.s.C Mathematics (2022-2025)
 
-- 👯 I’m looking to collaborate on **Data science projects**
+- 📕 University Project **I'm studying Number Theory and I'm interested in learning the mathematics behind modern encryption algorithms**
+
+- 🌱 I’m currently learning **R, SQL, Machine Learning, Power BI, ReactJS**
+
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 📫 How to reach me **alexdasilvasodreprofissional@gmail.com**
 

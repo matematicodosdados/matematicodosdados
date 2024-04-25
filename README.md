@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matematicodosdados&label=Profile%20views&color=0e75b6&style=flat" alt="matematicodosdados" /> </p>
 
-- 👨‍🎓 B.s.C Mathematics (2022-2025)
+- 👨‍🎓 Education **B.s.C Mathematics (2022-2025)**
 
 - 📕 University Project **I'm studying Number Theory and I'm interested in learning the mathematics behind modern encryption algorithms**
 

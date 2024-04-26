@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/alexssandrosodre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexssandrosodre" height="30" width="40" /></a>
 <a href="https://kaggle.com/alekazen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alekazen" height="30" width="40" /></a>
 <a href="https://instagram.com/alexssandro1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexssandro1012" height="30" width="40" /></a>
-<a href="https://medium.com/alexssandro101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alexssandro101" height="30" width="40" /></a>
+<a href="https://medium.com/@alexssandro101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alexssandro101" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hello data!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello data!" height="30" width="40" /></a>
 </p>
 
